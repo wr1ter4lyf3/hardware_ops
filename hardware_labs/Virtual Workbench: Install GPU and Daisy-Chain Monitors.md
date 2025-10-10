@@ -59,4 +59,4 @@ This also made me curious about **macOS and AV equipment chaining** — how Appl
 ---
 
 ## 📸 Screenshots
-*(Add your screenshots here once gathered — e.g. GPU installation steps, DisplayPort chain diagram, monitor detection results.)*
+*(Will add screenshots here once gathered — e.g. GPU installation steps, DisplayPort chain diagram, monitor detection results.)*
