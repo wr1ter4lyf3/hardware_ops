@@ -1,11 +1,5 @@
 # 🧠 Lab 01 – GPU Installation and DisplayPort 1.2 Daisy Chaining
 
-**Lab Source:** A+ Core 1 and Core 2 Virtual Workbench  
-**Duration:** 53 minutes, 16 seconds  
-**Score:** ✅ Passed (100%)  
-**Focus Areas:** GPU installation, DisplayPort configuration, daisy chaining monitors  
-**Date Completed:** May 2025, June 2025 
-
 ---
 
 ## 🧩 Summary
@@ -55,8 +49,3 @@ This also made me curious about **macOS and AV equipment chaining** — how Appl
 - DisplayPort 1.2 MST configuration
 - Multi-monitor diagnostics
 - Hardware documentation workflow
-
----
-
-## 📸 Screenshots
-*(Will add screenshots here once gathered — e.g. GPU installation steps, DisplayPort chain diagram, monitor detection results.)*
