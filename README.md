@@ -15,4 +15,4 @@ This repository serves as a **technical documentation hub** for my CompTIA A+–
 ## Repository Sections
 - **Hardware-Labs:** Technical step-by-step documentation of A+–aligned hardware and ticketing-systems-related tasks.  
 - **Reflections:** Personal insights linking each lab to real-world support environments.  
-- **Templates:** Standardized markdown formats for ticketing and reflection entries.  
+
